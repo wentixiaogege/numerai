@@ -1,0 +1,14 @@
+statsmodels
+odps
+tqdm
+rrun
+tables
+xlrd
+pandas==0.25.3
+scikit-learn
+numpy
+scipy
+lightgbm
+matplotlib
+seaborn
+loguru
